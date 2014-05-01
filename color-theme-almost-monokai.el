@@ -1,3 +1,5 @@
+;;; color-theme-almost-monokai.el --- A beautiful, fruity and calm emacs color theme.
+
 ;;; Almost Monokai: color-theme-almost-monokai.el
 ;;; A beautiful, fruity and calm emacs color theme.
 
